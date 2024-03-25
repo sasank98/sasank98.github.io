@@ -1,0 +1,48 @@
+- title: "Multi-Camera Visual Interial Navigation"
+  excerpt: "In this work, we've developed a non-linear optimization based system that tightly integrates GPS data, inertial measurments and visual input from a multi camera setup. Building upon our Generic Visual SLAM framework for multi-camera setups, we utilize IMU preintegration to summarize hundreds of inertial measurements into a single relative motion constraint."
+  image_path: "../images/personal/SLAM.gif"
+  url: "https://github.com/neufieldrobotics/MultiCamSLAM"
+
+- title: "Bundle Adjustment on buddha Images"
+  excerpt: "This project aims to implement Sparse reconstruction of a buddha statue using bundle adjustment. The project involves feature detection, feature matching, and bundle adjustment. The features were detected using SIFT and ORB and were matched using Brute Force Matcher. The bundle adjustment was implemented using GTSAM library."
+  image_path: "../images/personal/buddha.gif"
+  url: "https://github.com/sasank98/Bundle-adjustment-on-Phone-images"
+
+- title: "Neural Radiance Fields implementation in PyTorch"
+  excerpt: "Implemented the Neural Radiance Fields (NeRF) algorithm in PyTorch from scratch. Gave me an understanding of the entire NERF technique"
+  image_path: "../images/personal/nerf_render.gif"
+  url: "https://github.com/sasank98/NeRF_PyTorch"
+
+- title: "Diffusion Network for Image Generation"
+  excerpt: " Implemented a diffusion network to generate CIFAR-10 images. Worked on this project to understand the overall diffusion process and how it can be used for other domains."
+  image_path: "../images/personal/diffusion.gif"
+  url: "https://github.com/sasank98/Diffusion_image_generation_network"
+
+- title: "Single Image Super Resolution"
+  excerpt: "In this work, we've implemented a deep learning based approach to single image super resolution. We used attention based models to improve the performance of the model, we further tried to improve its performance using an additoinal discriminator network."
+  image_path: "../images/personal/SISR.gif"
+  url: "https://github.com/sasank98/EfficientTransformerGAN"
+
+- title: "Homography on Under Water Images and Pose graph Optimization"
+  excerpt: "Implemented a homography based image stitching algorithm to stitch underwater images. SuperPoint and SuperGlue were used to extract and match features. Images were then stitched using RANSAC and homography. Pose graph was implemented and optimized using GTSAM library."
+  image_path: "../images/personal/pose_optimization.gif"
+  url: "https://github.com/sasank98/Homography_stitching_underwater_images"
+
+- title: "Reinforcement Learning on a Robotic Arm"
+  excerpt: "Implemented a reinforcement learning algorithm to control a robotic arm."
+  image_path: "../images/personal/rl.gif"
+  url: "https://github.com/sasank98/Reward-engineering-on-Robotic-Arm"
+# - title: "Motion Detection"
+#   excerpt: "In Computer Vision it is often helpful to discard unnecessary parts of images to focus only on essential sections. In the case of doing an analysis of dynamic objects in a static environment, removing the static background and detecting the moving objects can provide an excellent first step. In this project multiple spatial and temporal filtering techniques are implemented in C++ to detect motion in image sequences with static backgrounds. In particular, absolute difference and Prewitt temporal masking are implemente and compared to a derivative of a gaussian filter."
+#   image_path: "../images/software/MotionDetection.gif"
+#   url: "https://github.com/aryaman-patel/cv_motion_detection"
+
+# - title: "Mobile Robotics Project"
+#   excerpt: "We designed a robot for environment mapping and April tag recognition, this included writing the custom code for mapping from Laser scans, using frontier exploration. Our work included custom mapping modules and a novel approach for camera-to-1D lidar calibration, a challenging problem due to the lidar's dimensionality. Leveraging linear algebra, we solved a non-linear least-square optimization problem, significantly reducing calibration errors."
+#   image_path: "images/software/MRProject.gif"
+#   url: "https://github.com/aryaman-patel/MobileRoboticsProject"
+
+- title: "Mobile Robotics Algorithms"
+  excerpt: "Implementing some of the algorithms from the Mobile Robotics Course. These include A* Path Planning, Particle Filter, and Iterative Closest Point."
+  image_path: "../images/personal/MobileRobotics.gif"
+  url: "https://github.com/sasank98/robotics_implementations"

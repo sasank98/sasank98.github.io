@@ -62,6 +62,14 @@ Experience
 ---------
 <!-- * __Computer Vision Teaching Assistant, Khoury College of Computer Science__
     *  -->
+* __Research Assistant, Silicon Synapse Lab, Northeastern University__
+    * Implemented a closed loop MPC control on a snake robot using motor encoders and odometry from Motion Capture, to navigate in uneven surfaces 
+
+    * Developed an end-to-end object detection and segmentation pipeline to annotate and train models and used it to compute pose of contact and dock 
+    * Deployed the model on Nvidia Orin using docker, achieving real-time detection with a Realsense camera at 15 FPS and 3cm accuracy 
+    * Generated Occupancy map by segmenting traversable point cloud in unstructured environments and utilized it for path planning 
+    
+      ![alt text](../images/personal/cobra.gif)
 * __Autonomy Systems and Machine Learning Co-op, Danfoss Autonomy__
     * Adapted LIO-SAM for a 6-axis IMU using additional GPS and conducted system testing to identify off-road failure modes
     * Performed system integration and testing along with FMEAs on third party SLAM companies for our specific off-road applications

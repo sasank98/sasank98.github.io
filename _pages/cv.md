@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * __Research Assistant, Silicon Synapse Lab, Northeastern University__
-    * Implemented a closed loop MPC control on a snake robot using motor encoders and odometry from Motion Capture, to navigate in uneven surfaces 
+    <!-- * Implemented a closed loop MPC control on a snake robot using motor encoders and odometry from Motion Capture, to navigate in uneven surfaces  -->
 
     * Developed an end-to-end object detection and segmentation pipeline to annotate and train models and used it to compute pose of contact and dock 
     * Deployed the model on Nvidia Orin using docker, achieving real-time detection with a Realsense camera at 15 FPS and 3cm accuracy 

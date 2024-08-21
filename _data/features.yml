@@ -1,7 +1,7 @@
-- title: "Multi-Camera Visual Interial Navigation"
-  excerpt: "In this work, we've developed a non-linear optimization based system that tightly integrates GPS data, inertial measurments and visual input from a multi camera setup. Building upon our Generic Visual SLAM framework for multi-camera setups, we utilize IMU preintegration to summarize hundreds of inertial measurements into a single relative motion constraint."
-  image_path: "../images/personal/SLAM.gif"
-  url: "https://github.com/neufieldrobotics/MultiCamSLAM"
+# - title: "Multi-Camera Visual Interial Navigation"
+#   excerpt: "In this work, we've developed a non-linear optimization based system that tightly integrates GPS data, inertial measurments and visual input from a multi camera setup. Building upon our Generic Visual SLAM framework for multi-camera setups, we utilize IMU preintegration to summarize hundreds of inertial measurements into a single relative motion constraint."
+#   image_path: "../images/personal/SLAM.gif"
+#   url: "https://github.com/neufieldrobotics/MultiCamSLAM"
 
 - title: "Bundle Adjustment on buddha Images"
   excerpt: "This project aims to implement Sparse reconstruction of a buddha statue using bundle adjustment. The project involves feature detection, feature matching, and bundle adjustment. The features were detected using SIFT and ORB and were matched using Brute Force Matcher. The bundle adjustment was implemented using GTSAM library."

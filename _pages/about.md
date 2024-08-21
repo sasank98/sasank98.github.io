@@ -9,7 +9,11 @@ redirect_from:
 
 <!-- <p style="text-align: justify"> -->
 <div style="text-indent: 2em;">
-Hi! I'm Sasank Potluri, a robotics engineer pursuing MS in Robotics at Northeastern University. I am broadly interested in robust sensor fusion for safe autonomy, I currently work under Hanumanth Singh a Northeastern University Field Robotics Lab where my focus is on improving visual SLAM systems for autonomous robots. My work mainly focuses on visual-inertial navigation systems for high-speed autonomous navigation. My current projects include IMU Preintegration for Real-Time Visual-Inertial Odometry
+
+Hi! I'm Sasank Potluri, a recent graduate from Northeastern University with a Master's degree in Robotics and Automation. I am broadly interested in building perception systems and controls for robots.
+</div>
+<div style="text-indent: 2em;">
+Currently, I work in the Silicon Synapse Lab under Professor Alireza Ramezani. My primary focus in the lab is to develop an understanding of the surroundings for the COBRA (snake-robot), and to learn how to effectively dock and manipulate objects within the given space.
 </div>
 <div style="text-indent: 2em;">
 I graduated with B.tech in Mechanical Engineering from Manipal Academy of Higher Education, Manipal. Prior to Northeastern I worked as a Research Assistant in Manipal University  on Water-lubricated Hydrodynamic bearings under Professor <a href="https://www.manipal.edu/mit/department-faculty/faculty-list/navaneeth-krishna-vernekar/_jcr_content.html">Navneeth Krishna Verneker</a>
@@ -63,7 +67,7 @@ Experience
 <!-- * __Computer Vision Teaching Assistant, Khoury College of Computer Science__
     *  -->
 * __Research Assistant, Silicon Synapse Lab, Northeastern University__
-    * Implemented a closed loop MPC control on a snake robot using motor encoders and odometry from Motion Capture, to navigate in uneven surfaces 
+    <!-- * Implemented a closed loop MPC control on a snake robot using motor encoders and odometry from Motion Capture, to navigate in uneven surfaces  -->
 
     * Developed an end-to-end object detection and segmentation pipeline to annotate and train models and used it to compute pose of contact and dock 
     * Deployed the model on Nvidia Orin using docker, achieving real-time detection with a Realsense camera at 15 FPS and 3cm accuracy 
